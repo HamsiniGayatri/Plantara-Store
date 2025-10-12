@@ -1,0 +1,111 @@
+/* <div className="mainDiv">
+      <img src={image} alt={name} className="image" height="200px" width="200px"/>
+      <h2 className="BigText">{name}</h2>
+      <p className="ParaText-1">₹ {price}</p>
+      <p className="ParaText-2">{species}</p>
+      <ul className="lists">
+        <li><strong>Sunlight:</strong> {specifications.sunlight}</li>
+        <li><strong>Water:</strong> {specifications.water}</li>
+        <li><strong>Height:</strong> {specifications.height}</li>
+      </ul>
+    </div> */
+*{
+  margin:0px;
+  padding:0px;
+}
+.mainDiv{
+  min-height: 460px;      /* Adjust depending on content */
+  max-height: auto; 
+  width:280px;
+  border:2px solid #f9fff9;
+  box-shadow: inset;
+  margin: 45px 20px 0px 20px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 18px;
+  background-color: #f9fff9;
+  padding: 15px;
+}
+.image{
+  object-fit: cover;
+  margin:10px 0px 2px 32px;
+  border:2px rgb(239, 239, 239) solid;
+  box-shadow: inset;
+  border-radius: 15px;
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: 0 auto 10px;
+}
+.BigText{
+  font-family: 'Poetsen One', sans-serif;
+  font-weight: 100;
+  font-size:x-large;
+   text-align: center;
+}
+.ParaText-1{
+  font-family: 'Poetsen One', sans-serif;
+  font-weight: 100;
+  font-size:x-large;
+  color:brown;
+  text-align: center;
+}
+.ParaText-2{
+  font-family: 'Poetsen One', sans-serif;
+  font-weight: 100;
+  font-size:small;
+  text-align: center;
+  color:#777;
+}
+.lists li{
+  font-family: 'Poetsen One', sans-serif;
+  font-weight: 100;
+  font-size:small;
+  text-align: center;
+  
+}
+.lists{
+  font-family: 'Poetsen One', sans-serif;
+  font-weight: 100;
+  color:black;
+  margin-top: 2px;
+}
+ul{
+  list-style-type: none;
+  
+}
+.addToCart{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left:30px;
+  margin-top: 10px;
+  padding:10px 35px;
+  background-color: #0f7a2b;
+  color: white;
+  font-family:'Poetsen One', sans-serif;
+  border-radius: 10px;
+  border:none;
+  font-size: medium;
+}
+.buyNow{
+  align-items: center;
+  justify-content: center;
+  margin-left:30px;
+  margin-top: 10px;
+  padding:10px 44px;
+  background-color: #0f7a2b;
+  color: white;
+  font-family:'Poetsen One', sans-serif;
+  border-radius: 10px;
+  border:none;
+  font-size:medium;
+}
+.addToCart:hover{
+   background-color:rgb(137, 199, 28);
+}
+.buyNow:hover{
+  background-color:rgb(137, 199, 28);
+}
+
+

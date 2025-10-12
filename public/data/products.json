@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Areca Palm",
+    "price": 299,
+    "image": "/data/images/Areca-Palm-plant_480x480.jpg",
+    "species": "Dypsis lutescens",
+    "specifications": {
+      "sunlight": "Indirect Bright Light",
+      "water": "Every 2-3 days",
+      "height": "1-2 ft"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Snake Plant",
+    "price": 249,
+    "image": "/data/images/snake plants.jpg",
+    "species": "Sansevieria trifasciata",
+    "specifications": {
+      "sunlight": "Low to Bright Light",
+      "water": "Once a week",
+      "height": "1 ft"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Peace Lily",
+    "price": 349,
+    "image": "/data/images/peacelily.jpg",
+    "species": "Spathiphyllum",
+    "specifications": {
+      "sunlight": "Partial Shade",
+      "water": "Twice a week",
+      "height": "1.5 ft"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Money Plant",
+    "price": 199,
+    "image": "/data/images/moneyPlant.jpg",
+    "species": "Epipremnum aureum",
+    "specifications": {
+      "sunlight": "Indirect Light",
+      "water": "2 times a week",
+      "height": "1 ft"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Aloe Vera",
+    "price": 179,
+    "image": "/data/images/Aloe_Vera.jpg",
+    "species": "Aloe barbadensis miller",
+    "specifications": {
+      "sunlight": "Direct Sunlight",
+      "water": "Once a week",
+      "height": "1-1.5 ft"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Jade Plant",
+    "price": 229,
+    "image": "/data/images/jade plant.jpg",
+    "species": "Crassula ovata",
+    "specifications": {
+      "sunlight": "Bright Indirect Light",
+      "water": "Every 4-5 days",
+      "height": "0.5-1 ft"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Spider Plant",
+    "price": 189,
+    "image": "/data/images/spider plant.jpg",
+    "species": "Chlorophytum comosum",
+    "specifications": {
+      "sunlight": "Medium to Bright",
+      "water": "Weekly",
+      "height": "1 ft"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Rubber Plant",
+    "price": 399,
+    "image": "/data/images/rubber plant.jpg",
+    "species": "Ficus elastica",
+    "specifications": {
+      "sunlight": "Bright Indirect Light",
+      "water": "Weekly",
+      "height": "2-3 ft"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Pothos",
+    "price": 159,
+    "image": "/data/images/pothos.jpg",
+    "species": "Epipremnum aureum",
+    "specifications": {
+      "sunlight": "Low to Medium Light",
+      "water": "Once a week",
+      "height": "Hanging vine"
+    }
+  },
+  {
+    "id": 10,
+    "name": "ZZ Plant",
+    "price": 349,
+    "image": "/data/images/ZZ.jpg",
+    "species": "Zamioculcas zamiifolia",
+    "specifications": {
+      "sunlight": "Low Light",
+      "water": "Twice a month",
+      "height": "1-2 ft"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Fiddle Leaf Fig",
+    "price": 599,
+    "image": "/data/images/fiddleLeaf.jpg",
+    "species": "Ficus lyrata",
+    "specifications": {
+      "sunlight": "Bright Indirect Light",
+      "water": "Once a week",
+      "height": "3-4 ft"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Croton Plant",
+    "price": 269,
+    "image": "/data/images/croton.jpg",
+    "species": "Codiaeum variegatum",
+    "specifications": {
+      "sunlight": "Full to Partial Sun",
+      "water": "Twice a week",
+      "height": "2 ft"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Boston Fern",
+    "price": 279,
+    "image": "/data/images/Boston-Fern-4.jpg",
+    "species": "Nephrolepis exaltata",
+    "specifications": {
+      "sunlight": "Indirect Light",
+      "water": "Every 2-3 days",
+      "height": "1.5 ft"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Aglaonema",
+    "price": 299,
+    "image": "/data/images/Aglaonema.jpg",
+    "species": "Aglaonema commutatum",
+    "specifications": {
+      "sunlight": "Low to Medium Light",
+      "water": "Weekly",
+      "height": "1.5-2 ft"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Bamboo Palm",
+    "price": 399,
+    "image": "/data/images/Bamboo palm.jpg",
+    "species": "Chamaedorea seifrizii",
+    "specifications": {
+      "sunlight": "Low Light",
+      "water": "Weekly",
+      "height": "2-4 ft"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Tulsi (Holy Basil)",
+    "price": 149,
+    "image": "/data/images/tulsi.jpg",
+    "species": "Ocimum tenuiflorum",
+    "specifications": {
+      "sunlight": "Full Sun",
+      "water": "Daily",
+      "height": "1 ft"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Lemon Grass",
+    "price": 189,
+    "image": "/data/images/lemon grass.jpg",
+    "species": "Cymbopogon citratus",
+    "specifications": {
+      "sunlight": "Full Sun",
+      "water": "Regular",
+      "height": "2 ft"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Brahmi Plant",
+    "price": 159,
+    "image": "/data/images/brahmi plant.jpg",
+    "species": "Bacopa monnieri",
+    "specifications": {
+      "sunlight": "Partial Shade",
+      "water": "Regular",
+      "height": "Low-growing"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Mint (Pudina)",
+    "price": 129,
+    "image": "/data/images/pudina.jpg",
+    "species": "Mentha",
+    "specifications": {
+      "sunlight": "Full Sun",
+      "water": "Daily",
+      "height": "1 ft"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Curry Leaf Plant",
+    "price": 249,
+    "image": "/data/images/curry leaves.jpg",
+    "species": "Murraya koenigii",
+    "specifications": {
+      "sunlight": "Full Sun",
+      "water": "Every 2-3 days",
+      "height": "3 ft"
+    }
+  }
+]

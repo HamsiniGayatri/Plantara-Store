@@ -1,0 +1,40 @@
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color:#006400;
+  height:70px;
+  color:white;
+  position: fixed;
+  top:0;
+  left:0;
+  width: 100%;
+  z-index:999;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+nav span{
+    margin-left:8px;
+    margin-right: 8px;
+    cursor: pointer;
+}nav span:hover{
+    height:20px;
+    color:rgb(137, 199, 28);
+}
+.logo{
+    font-family: 'Poetsen One', sans-serif;
+    font-weight:100;
+    font-style: normal;
+    font-size: xx-large;
+    margin-left: 30px;
+}
+.navbar {
+  font-family: 'Lora', serif;
+}
+div h1{
+  cursor: pointer;
+}
+
+
+
