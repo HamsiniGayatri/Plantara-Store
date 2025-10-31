@@ -42,17 +42,18 @@ This project demonstrates full-stack proficiency, combining a responsive UI with
 ## 🚀 Getting Started (Local Setup)
 
 ### 1️⃣ Install Dependencies:
-```bash
-# Install root dependencies (if applicable)
+
+### Install root dependencies (if applicable)
 npm install
 
-# Install client dependencies
-cd client && npm install
+### Install client dependencies
+cd src && npm install
 
-# Install server dependencies
+### Install server dependencies
 cd server && npm install
 
-2️⃣ Set Up Environment Variables:
+### 2️⃣ Set Up Environment Variables:
+
 
 Create a .env file inside the server folder and define:
 
@@ -60,12 +61,12 @@ MONGO_URI=<your_database_uri>
 JWT_SECRET=<your_secret_key>
 PORT=5000
 
-3️⃣ Run the Application:
-# Start the backend server first
-npm run server-start
+### 3️⃣ Run the Application:
+### Start the backend server first
+npm start
 
-# In a new terminal, start the frontend
-npm run client-start
+### In a new terminal, start the frontend
+npm start
 
 
 The application will be accessible at:
