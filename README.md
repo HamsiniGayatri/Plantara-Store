@@ -43,7 +43,7 @@ This project demonstrates full-stack proficiency, combining a responsive UI with
 - **Guided Checkout Process:** Designed for maximum conversion.  
 - **Payment Confirmation Screen:** Confirms successful transaction completion.
 
-  ![Alt text](transaction_completed.png)
+  ![Alt text](transaction.png)
 
 
 ---
