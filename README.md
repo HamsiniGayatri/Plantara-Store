@@ -22,6 +22,8 @@ This project demonstrates full-stack proficiency, combining a responsive UI with
 - **Interactive Price Slider:** Allows users to browse inventory based on a dynamically adjustable price range.
 
   ![Alt text](filters.png)
+
+  
   ![Alt text](home.png)
 
 
