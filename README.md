@@ -11,7 +11,10 @@ This project demonstrates full-stack proficiency, combining a responsive UI with
 
 💧 **User Authentication & Security**  
 - Secure Sign Up / Login with robust validation.  
-- Implementation of personalized user sessions and data protection mechanisms.  
+- Implementation of personalized user sessions and data protection mechanisms.
+
+![Alt text](login_page.png)
+
 
 💧 **Advanced Product Browsing & Filtering**  
 - **Dynamic Catalog:** Features detailed plant profiles including sunlight requirements, watering frequency, height, and price.  
