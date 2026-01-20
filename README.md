@@ -19,16 +19,25 @@ This project demonstrates full-stack proficiency, combining a responsive UI with
 💧 **Advanced Product Browsing & Filtering**  
 - **Dynamic Catalog:** Features detailed plant profiles including sunlight requirements, watering frequency, height, and price.  
 - **Real-time Filtering:** Includes search functionality and category filtering.  
-- **Interactive Price Slider:** Allows users to browse inventory based on a dynamically adjustable price range.  
+- **Interactive Price Slider:** Allows users to browse inventory based on a dynamically adjustable price range.
+
+  ![Alt text](filters.png)
+
 
 💧 **Cart & Wishlist Management**  
 - **Seamless Cart Operations:** Easy Add / Remove product functionality.  
 - **Auto-Updated Totals:** Real-time calculation of Subtotal, Delivery Charge, and Grand Total.  
-- **Wishlist Feature:** Option to save favorite plants for future purchasing.  
+- **Wishlist Feature:** Option to save favorite plants for future purchasing.
+
+  ![Alt text](my_cart.png)
+
 
 💧 **Checkout & Payment Flow**  
 - **Guided Checkout Process:** Designed for maximum conversion.  
-- **Payment Confirmation Screen:** Confirms successful transaction completion.  
+- **Payment Confirmation Screen:** Confirms successful transaction completion.
+
+  ![Alt text](transaction_completed.png)
+
 
 ---
 
